@@ -25,7 +25,7 @@ Hi everyone, I am **KAM Wing Hang**, my SID is clear.
 - [ ] Spy on you
 - [ ] :black_joker:
 
-| It   | is   | sucks |
+| Tic   | Tac   | Toe |
 | ---- | ---- | ----- |
 | x    | o    | x     |
 | x    | x    | o     |
